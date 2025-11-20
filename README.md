@@ -148,7 +148,7 @@ Infrastructure projects like **housing construction** and **climate retrofits** 
 ![Scenario Comparison](assets/scenario_comparison.png)
 *Only in optimistic scenario ($8B revenue) does affordability exceed 30%. Base case and pessimistic scenarios are fiscally infeasible.*
 
-**To Generate Visuals:** Run all cells in `Monte-Carlo-Simulation.ipynb`. Right-click plots to save to `/assets` directory.
+**Note:** Visualizations are pre-generated and saved in the `/assets` directory. To regenerate with updated parameters, run: `python3 generate_visuals.py`
 
 ---
 
