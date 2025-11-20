@@ -35,35 +35,11 @@ The analysis uses:
 - **Scenario Analysis**: Optimistic, base case, and pessimistic scenarios
 - **Sensitivity Analysis**: Tests which policies drive the most fiscal risk
 
-## Key Features
-
-- ✅ Comprehensive policy cost modeling with probability distributions
-- ✅ Separation of budgetary vs. regulatory policies
-- ✅ Scenario comparisons (optimistic/base/pessimistic)
-- ✅ One-at-a-time sensitivity analysis for major cost drivers
-- ✅ Policy inclusion/exclusion experiments
-- ✅ Professional visualizations (histograms, CDFs, pie charts, etc.)
-- ✅ Reproducible results with fixed random seed
-
 ## Files
 
 - **`Monte-Carlo-Simulation.ipynb`**: Complete Jupyter notebook with all analysis, code, and visualizations
 - **`Research.md`**: Detailed research on Mamdani's policy proposals and methodology
 - **`.gitignore`**: Excludes sensitive files and development artifacts
-
-## Technologies
-
-- Python 3.x
-- pandas
-- numpy
-- matplotlib
-
-## Usage
-
-1. Clone this repository
-2. Install dependencies: `pip install pandas numpy matplotlib`
-3. Open `Monte-Carlo-Simulation.ipynb` in Jupyter
-4. Run all cells to see the complete analysis
 
 ## Key Questions Answered
 
