@@ -1,6 +1,9 @@
 # Prompt file
 Prompt.txt
 
+# Visualization generation script
+generate_visuals.py
+
 # Python virtual environment
 .venv/
 venv/
